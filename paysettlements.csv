@@ -1,4 +1,16 @@
-﻿Organisation,Period,Value
-IDR,three months to April 2022,3.7
-LRD,three months to March 2022,3.2
-XpertHR,three months to April 2022,3
+﻿Organisation,Type,Period,Value
+IDR,Whole economy,three months to April 2022,3.7
+LRD,Whole economy,three months to April 2022,4.2
+XpertHR,Whole economy,three months to April 2022,4
+IDR,Private sector,three months to April 2022,3.7
+LRD,Private sector,three months to April 2022,4.4
+XpertHR,Private sector,three months to April 2022,4
+IDR,Public sector,three months to April 2022,
+LRD,Public sector,three months to April 2022,2.2
+XpertHR,Public sector,three months to April 2022,
+IDR,Services,three months to April 2022,3.7
+LRD,Services,three months to April 2022,4.4
+XpertHR,Services,three months to April 2022,4
+IDR,Manufacturing,three months to April 2022,3.3
+LRD,Manufacturing,three months to April 2022,
+XpertHR,Manufacturing,three months to April 2022,3.9
