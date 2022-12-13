@@ -26,7 +26,7 @@ Police Chief Officers,1.8,Police,236,01/09/2022,PSS
 Riverside Quarter Cleaners,16,Facilities Management,,01/07/2022,CSS
 North Air,9,Aviation,20,01/08/2022,CSS
 Capital City College Group,9,Education,1343,01/08/2022,PSS
-Police (england & Wales),8.8,Police,133788,01/09/2022,PSS
+Police (England & Wales),8.8,Police,133788,01/09/2022,PSS
 Mersey Rail (Managers),7.1,Transport,80,01/07/2022,CSS
 RS Components,6,Electrical Components,469,01/07/2022,CSS
 Kraft Heinz (Wigan),5.5,Food Manufacturing,900,01/07/2022,MANF
@@ -69,3 +69,17 @@ Anglian Water,4.6,Energy & Water,4000,01/04/2022,CSS
 Panasonic Manufacturing UK,4.5,Manufacturing,,01/04/2022,MANF
 Nottingham Trams Ltd,4,Transport,,01/06/2022,CSS
 Canal and River Trust,4,Charitable,1800,01/07/2022,CSS
+JaguarLandRover (JLR),12.3,Automotive manufacturing,16955,01/10/2022,MANF
+Electricity North West,11.8,Utilities,,01/08/2022,CSS
+ESS Compass HMNB Clyde (Faslane & Coulport),10.1,Contractors,,01/08/2022,PSS
+Stagecoach North East (Hartlepool & Stockton-on-Tees),10.1,Transport,,04/09/2022,CSS
+Amco-Giffen,5,Manufacturing,,01/10/2022,MANF
+Nordam Europe,7,Manufacturing,,01/10/2022,MANF
+Lidl,7.9,Retail,21000,01/10/2022,CSS
+Ministry of Justice,3.37,Civil service,18500,01/08/2022,PSS
+East Midlands Airport,17,Security,,01/09/2022,CSS
+Caledonian MacBrayne,7.2,Transport,,01/10/2022,CSS
+National Audit Office (NAO),3,Civil service,806,01/10/2022,PSS
+Vodaphone,10,Retail / communications,,01/10/2022,CSS
+E.ON UK,7.5,Utilities,8500,01/10/2022,CSS
+Sainsbury's Supermarkets,2.5,Retail,134129,01/10/2022,CSS
